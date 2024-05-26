@@ -23,8 +23,6 @@ const Posts = () => {
         },
     });
 
-    console.log(data)
-
     //TEMPORARY
     // const posts = [
     //     {
